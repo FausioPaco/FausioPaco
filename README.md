@@ -15,11 +15,10 @@ On my personal website, [fausiopaco.co.mz](http://fausiopaco.co.mz), you can exp
 - **Design Tools**: Figma, Adobe XD
 - **Other Technologies**: ASP.NET MVC, .NET Core, RESTful APIs
 
-### 🎯 Goals
+### 🎯 My Current Goals
 - Continue mastering the fundamentals of front-end engineering, ensuring a strong foundation for building robust applications.
 - Continue enhancing my skills in **System Design** for front-end, with a focus on distributed systems.
 - Explore new ways to integrate UI Design with front-end development, improving process efficiency and user experience.
-- Contribute to open-source projects and share knowledge with the community.
 
 ### 📫 Get in Touch
 
