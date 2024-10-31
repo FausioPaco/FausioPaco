@@ -11,7 +11,7 @@ On my personal website, [fausiopaco.co.mz](http://fausiopaco.co.mz), you can exp
 ### 🚀 Technologies I Use
 
 - **Languages**: HTML, CSS, JavaScript, Typescript, C#
-- **Frameworks & Libraries**: Vue.js, Nuxt.js, Pinia, Vuex, Tailwind CSS, Bootstrap, Jest, Webpack, Vite
+- **Frameworks & Libraries**: Vue.js, React.js, Nuxt.js, Pinia, Vuex, Tailwind CSS, Bootstrap, Jest, Webpack, Vite, Vitest
 - **Design Tools**: Figma, Adobe XD
 - **Other Technologies**: ASP.NET MVC, .NET Core, RESTful APIs
 
